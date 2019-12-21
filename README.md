@@ -1,2 +1,2 @@
 # Tutorial
-This is a training session
+This is a training session one
